@@ -5,19 +5,19 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "SIGNATURE_BASE64_HERE",
-      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_x64-setup.nsis.zip"
+      "url": "https://big-if-true.github.io/foldermom-releases/v1.0.0/Folder-Mom_1.0.0_x64-setup.nsis.zip"
     },
     "darwin-x86_64": {
       "signature": "SIGNATURE_BASE64_HERE",
-      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_x64.app.tar.gz"
+      "url": "https://big-if-true.github.io/foldermom-releases/v1.0.0/Folder-Mom_1.0.0_x64.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "SIGNATURE_BASE64_HERE",
-      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_aarch64.app.tar.gz"
+      "url": "https://big-if-true.github.io/foldermom-releases/v1.0.0/Folder-Mom_1.0.0_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "SIGNATURE_BASE64_HERE",
-      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_amd64.AppImage.tar.gz"
+      "url": "https://big-if-true.github.io/foldermom-releases/v1.0.0/Folder-Mom_1.0.0_amd64.AppImage.tar.gz"
     }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "notes": "What's new in this version",
+  "pub_date": "2026-02-02T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "SIGNATURE_BASE64_HERE",
+      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_x64-setup.nsis.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "SIGNATURE_BASE64_HERE",
+      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "SIGNATURE_BASE64_HERE",
+      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "SIGNATURE_BASE64_HERE",
+      "url": "https://releases.foldermom.app/v1.0.0/Folder-Mom_1.0.0_amd64.AppImage.tar.gz"
+    }
+  }
+}

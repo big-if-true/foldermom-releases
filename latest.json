@@ -1,19 +1,19 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "See CHANGELOG.md for release notes",
-  "pub_date": "2026-05-20T14:42:41.543Z",
+  "pub_date": "2026-05-20T20:54:45.944Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0dhWjhEVmdXK0cwNzZiemw0Nm1TaVFlOUJJSGxRdWpGcWtVaHZuTDFHcVhua1UyZEhhd015cGNyVUl5SDBLVEZRc3JPcmNiUUZGSlphNXpkUG10YlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg2ODk4CWZpbGU6Rm9sZGVyIE1vbS5hcHAudGFyLmd6CnhzT3BGUE91YVBpR1dzSWEzUFNneHNDZm1qUUhSRDE1RldNOEl1S1dJOFVZMTZuSXc2L3Y3aGRudzFRb0t4RXFBNys3UDk3MU5yaFMwY3Q4UzhpMURBPT0K",
-      "url": "https://github.com/big-if-true/folder-mom-repo/releases/download/v0.1.1/Folder%20Mom.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR1BVQ2ZXTDI1SzFhNEd4R2hDQ3BaeXI5V0ZmbzdXMWtEWjJvUW95V3I2c2RVWHRuaXVIaFQ4eGVQWXQvaWxTRm9GaHIwM3VYdVRjL1A2SWxSQ2lDVEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzA5NDUwCWZpbGU6Rm9sZGVyIE1vbS5hcHAudGFyLmd6CjhqYVQvWitaOXZTT09nRTJJcXJhYVRMVlhkQTdydytsdVhGSkdXbnEra3FTTzlDTU5vWS9HN2ZrQUtzV0NJMEVwN0Y3QitwbzFIMC82R3loNzVMTUF3PT0K",
+      "url": "https://github.com/big-if-true/folder-mom-repo/releases/download/v0.1.2/Folder%20Mom.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0Q3bUlwYk5vcElQSnh2MXN5aURic2R6T3E3TUNDTXh4M1RaaEtjSU1MRitGYkMvMk5MVEZod2FsZEo3aU5DNU92bTFyc0FHUHk3NjNudHlSRU5KNlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg3NTQ0CWZpbGU6Rm9sZGVyIE1vbV8wLjEuMV9hbWQ2NC5BcHBJbWFnZQphWi9uQi92VTA0ak5rY2U2bUNza2JZWHNBQUZIMEx1MFpIK2d4b2hPOFhNYVVKKzB5eEVHTnFGY0ZmaTlHRm5LcFZyYldieXB0UlRnbkRyWEFJUnBBdz09Cg==",
-      "url": "https://github.com/big-if-true/folder-mom-repo/releases/download/v0.1.1/Folder%20Mom_0.1.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0trbTk2NUdmSllvekFqWHdhMzM4eDAzeGZVRVBNS3VncFREazRnM3BHcFZiSzN3cDRoc3hIYWFPNWdkNjA2Z0FQL2dqQWRFdmcySzk4eW03L3lQM2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzA5OTkxCWZpbGU6Rm9sZGVyIE1vbV8wLjEuMl9hbWQ2NC5BcHBJbWFnZQozL3BwcnJBU0xXVUkvRWUrckxIbmVwSzlqR2NIdkJncU5nak5Fd001Yk5MOW9FRTMwWG1VSENuRHl3MC8xUWtVUWdTN285WlhzK1U4ekt6aXF4dTFBdz09Cg==",
+      "url": "https://github.com/big-if-true/folder-mom-repo/releases/download/v0.1.2/Folder%20Mom_0.1.2_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0VpTFFaaks5WS81akRqenRPdTA4VXVQam1rYVJRRmJGTmVrd3ZQYWovTlp4cHpzWERIS0lvTXRxbHpwUlJvcGJFclpsa3orNkhTbUFpL0hmZlFqTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4MTA0CWZpbGU6Rm9sZGVyIE1vbV8wLjEuMV94NjQtc2V0dXAuZXhlCkxzL1kzV3B2WEFHSkxINjZVR2trUnB2V2lBaEw5RXAzN3hMRDBuZCtscjR5RXlqeXdYVmRiblBTV05OVysvNDBQOVFRM1hoUFRqMXFsNUFhZ1RSZ0JBPT0K",
-      "url": "https://github.com/big-if-true/folder-mom-repo/releases/download/v0.1.1/Folder%20Mom_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0pIa0ZKNXNDVGZwNTA4L1hzc2h6M2tUc2FQSUh0L0laUTNteDJ6MWIvWkF6bEdvL1JQQTdQcnBiNVU2NFQwOXd6RFZMdEJzRVVLWHRKWmg3ZGQ2d1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzEwNDE4CWZpbGU6Rm9sZGVyIE1vbV8wLjEuMl94NjQtc2V0dXAuZXhlCjJhYjRPbzRaRi9TUlczSVUvUmErWGJPQy93MkVyQmNxUkRNNy9vMnFGNGdnQXRBUHFPZnhwdmNkb0dmMVhzMmhPMDQ4MGJWSkQ1NkpDMVF4VG11c0F3PT0K",
+      "url": "https://github.com/big-if-true/folder-mom-repo/releases/download/v0.1.2/Folder%20Mom_0.1.2_x64-setup.exe"
     }
   }
 }

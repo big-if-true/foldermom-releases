@@ -5,15 +5,15 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0dyT0czelNpemhBZXl5RkpKeXZITm42RUNiYVdadkUzSmNTTkpCcDVKSllIcnRIdzQvbDlJcStMR3h5dVh5bzRpYmNsME1xZkVJNzZJc3VwZHJja1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzYxODI1CWZpbGU6Rm9sZGVyIE1vbS5hcHAudGFyLmd6CmdGanNwNXNTWGtKUEtzRUlKMGRSYVIzSEdIUDJ0b21jUkc2d1lHei9HZCtUU29nOHhkV1A3V0lvQnMrZ1NQemRRenFlZ1ljOFpFZzU3bG1FWU16QUFRPT0K",
-      "url": "https://github.com/big-if-true/foldermom-releases/releases/download/v0.1.5/Folder%20Mom.app.tar.gz"
+      "url": "https://github.com/big-if-true/foldermom-releases/releases/download/v0.1.5/Folder.Mom.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0dCbUpzRlpBVmdPWGFTUUxHUTJPNDhZZ3JJbXcwdjJWcEk1b1VkdlJlVSs2bnBYYnQrR0FrK0hMZG0yOE5qQWxSSVZwMkd6NERCMGFMZVRXT0QvMXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzYyMTczCWZpbGU6Rm9sZGVyIE1vbV8wLjEuNV9hbWQ2NC5BcHBJbWFnZQpSZWJESk1mWVVIVFJ4cVp4WEZIM2tiMkxqRWpRbG00Y21pYjByUUlWNWZrWUErWndwdnRBdFNUSi9aVU9VMDg4c0JneWN6azUxUDc0MmRybkpUa0JCQT09Cg==",
-      "url": "https://github.com/big-if-true/foldermom-releases/releases/download/v0.1.5/Folder%20Mom_0.1.5_amd64.AppImage"
+      "url": "https://github.com/big-if-true/foldermom-releases/releases/download/v0.1.5/Folder.Mom_0.1.5_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2owcU5JbWxSR0pvVHAzSnFPQXI1SmRzK0g3RFNlcmtxRmY0K0JDSTgxNE5xUU4veS81eG9GUHpvaEVnOWdrM1FhWitoek8wSlIxM3RmR0ZCeUU5TWJuS1NEN2xSRFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzYyOTM0CWZpbGU6Rm9sZGVyIE1vbV8wLjEuNV94NjQtc2V0dXAuZXhlClJuYnhWQ2x1L2Q5UEN5czVYUGFENTFPTnZFQ2hoaFNnbnJ5Vk1MSWFHanhic1lvRkRIckR1emM0WDFwNkpuYUtHY2RBMlVJa3VJK3hIQXRMSmo0aERnPT0K",
-      "url": "https://github.com/big-if-true/foldermom-releases/releases/download/v0.1.5/Folder%20Mom_0.1.5_x64-setup.exe"
+      "url": "https://github.com/big-if-true/foldermom-releases/releases/download/v0.1.5/Folder.Mom_0.1.5_x64-setup.exe"
     }
   }
 }
